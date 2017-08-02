@@ -1,0 +1,23 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "Basic Map Webapp for testing ARCGIS-JS-API 4.4 with Webpack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "author": "Chaitu",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.0",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "maps",
+  "description": "Basic Map Webapp for Arcgis testing",
+  "main": "app.js",
+  "authors": [
+    "CG"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ESRI",
+    "ARCGIS-JS-API",
+    "4.4"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "esri": "arcgis-js-api#4.4.0"
+  },
+  "resolutions": {
+    "dojo": "v1.12.2/esri-3.21.0",
+    "dijit": "v1.12.2/esri-3.21.0",
+    "dojox": "v1.12.2/esri-3.21.0"
+  }
+}
