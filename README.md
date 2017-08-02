@@ -1,1 +1,1 @@
-# Practice Map using ESRI ARCGIS-JS-API 4.4
+# Testing an ESRI Arcgis-JS-API 4.4 web application with Webpack
